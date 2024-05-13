@@ -36,3 +36,20 @@ Right-click on the project in the Projects tab and select Run
 Use arrorw keys and space bar to move around
 Press F1 to generate new chunk
 Press F2 to generate nether world
+
+
+## What I Learned
+
+Through the development of the 3D World Generator, I gained invaluable insights and practical experience in several key areas of software development and computer graphics:
+
+- **Complex Algorithm Implementation**: Mastered the intricacies of algorithm design by developing efficient algorithms for random chunk generation, which taught me about performance optimization in real-time 3D environments.
+- **3D Graphics Programming**: Enhanced my understanding of 3D graphics through the use of the LWJGL library, learning how to manipulate and render 3D landscapes dynamically.
+- **Design Pattern Application**: Applied various design patterns such as Singleton for managing unique system components, Observer for handling real-time updates, and Visitor for performing operations over elements without changing the classes on which they operate. This experience deepened my understanding of software architecture and object-oriented design.
+- **Interactive User Interface Design**: Developed skills in creating intuitive user interfaces that facilitate user interaction with complex systems, making advanced functionalities accessible to users through simple controls.
+- **Environment Simulation**: Gained insights into the challenges and techniques involved in simulating natural environments in a virtual space, which included terrain manipulation and transformation into different thematic worlds.
+- **Project Management and IDE Tools**: Improved proficiency in using Apache NetBeans for Java development, from project setup and configuration to debugging and deployment, enhancing my workflow efficiency and effectiveness.
+- **Version Control and Documentation**: Learned the importance of maintaining clear and concise documentation and using version control systems like Git for managing project changes and collaborating effectively.
+- **Collaboration with a team of developers**: Developed the project with a group of developers and gain experience in working with others.
+  
+This project not only advanced my technical skills but also my ability to conceptualize and execute a complex project from the ground up within a structured development environment.
+
